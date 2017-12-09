@@ -1,0 +1,19 @@
+Project Name: Customer Billing System
+Group Numbers: Mano Vishnu A
+	       Sai Chaitanya Kathiri
+	       Sai Kushal Mandala
+Tools Used: 
+	Language : C language
+	Compiler : GCC
+	Debugger : GDB
+	Operating System : Windows 10 
+	Other tools Used : Valgrind,
+			   Memcheck,
+		           git,
+			   GitHub.
+
+Individual Contribution:
+	Mano Vishnu : Coding 
+	Sai Chaitanya kathiri : Debugging
+	Sai Kushal Mandala : Memory Error Checking.
+	 

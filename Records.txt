@@ -1,0 +1,2 @@
+productno	,ProductName	, Quantity
+, Price	1	Jeans	5	6500	2	Shirts	45	5200	
