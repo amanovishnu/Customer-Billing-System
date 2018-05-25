@@ -8,10 +8,10 @@ The source code of Customer Billing System Project in C has been written in C pr
 #### User Defined Functions Used:
 
 Although graphics has not been used in this project, the application of user defined functions and structures have been effectively used here. The major user defined functions used in this C project are:
-1. void input()                                                                                                                     
-2. void writefile()                                                                                                                  
-3. void search()                                                                                                                     
-4. void output()
+1. `void input()`                                                                                                                     
+2. `void writefile()`                                                                                                                  
+3. `void search()`                                                                                                                     
+4. `void output()`
 
 The function void input() is used to add the new customer account i.e. with the help of this functions the parameters such as name, address, phone number, amount paid etc. are asked and entered. Another function void writefile() has been utilized to create a file on hard disc of computer for storing the information and data of a customer.
 
@@ -21,9 +21,10 @@ In Customer Billing System, structure has very beautifully used to group the dat
 
 Customer Billing System application is so simple to use. In order to use the application, click at the exe file and then, you will have three options to:
 
-1. To add account
-2. To search account
-3. To exit
+1. `To add account`
+2. `To search account`
+3. `To exit`
+
 As per your need, enter 1, 2,or 3 and follow the instructions provided by the application itself.
 
 #### Features:
