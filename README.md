@@ -8,7 +8,7 @@ The source code of Customer Billing System Project in C has been written in C pr
 ### User Defined Functions Used:
 
 Although graphics has not been used in this project, the application of user defined functions and structures have been effectively used here. The major user defined functions used in this C project are:
-1. `void input()`                                                                                                                     
+1. ```void input()```                                                                                                                   
 2. `void writefile()`                                                                                                                  
 3. `void search()`                                                                                                                     
 4. `void output()`
