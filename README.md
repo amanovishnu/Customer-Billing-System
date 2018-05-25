@@ -36,3 +36,5 @@ The due amount to be paid is shown as negative balance.
 If you have nothing to do with the program, you can directly exit from the main menu.
 
 The project can be used in many aspects, firstly the application file generated can be used. Secondly the source code of Customer Billing System project in C can be used to learn C programming and its different features such as use of user defined functions, structures etc. Submitting this C project as your college/school C project without any modifications is completely discouraged.
+
+<p align="center"><b>© Created by Manovishnu</b></p?
