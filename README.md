@@ -5,7 +5,7 @@ You can use this application to keep the records such as name, address, mobile n
 
 The source code of Customer Billing System Project in C has been written in C programming language without of the use of any graphics. The code is complete, totally error free and not that long – just. It is to be compiled in Code::Blocks  using GCC compiler.
 
-User Defined Functions Used:
+#### User Defined Functions Used:
 
 Although graphics has not been used in this project, the application of user defined functions and structures have been effectively used here. The major user defined functions used in this C project are:
 1. void input()                                                                                                                     
@@ -21,12 +21,12 @@ In Customer Billing System, structure has very beautifully used to group the dat
 
 Customer Billing System application is so simple to use. In order to use the application, click at the exe file and then, you will have three options to:
 
-1.To add account
-2.To search account
-3.To exit
+1. To add account
+2. To search account
+3. To exit
 As per your need, enter 1, 2,or 3 and follow the instructions provided by the application itself.
 
-Features:
+#### Features:
 
 It can hold any number of accounts and account can be added to the program at any time.
 The programming of simple calculations such as calculation of due amount, balance etc. have been embed in the code of project.
